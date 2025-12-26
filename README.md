@@ -35,4 +35,13 @@ Double-click it or open it in your preferred browser.
 📸 Screenshots
 
 ![Home Page](./cake/cake1.png)
+![Home Page](./cake/cake2.png)
+![Home Page](./cake/cake3.png)
+![Home Page](./cake/cake4.png)
+![Home Page](./cake/cake5.png)
+![Home Page](./cake/cake6.png)
+![Home Page](./cake/cake7.png)
+![Home Page](./cake/cake8.png)
+![Home Page](./cake/cake9.png)
+
 
