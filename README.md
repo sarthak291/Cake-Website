@@ -34,4 +34,5 @@ Double-click it or open it in your preferred browser.
 
 📸 Screenshots
 
-![Home Page](C:\Users\Lenovo\Documents\desktop\projects\Cake-Website-main\cake1.png)
+![Home Page](./cake/cake1.png)
+
