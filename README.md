@@ -34,5 +34,4 @@ Double-click it or open it in your preferred browser.
 
 📸 Screenshots
 
-![Home Page](./desktop/cake/cake1.png)
-![Gallery Section](./images/screenshot2.png)
+![Home Page](./cake/cake1.png)
